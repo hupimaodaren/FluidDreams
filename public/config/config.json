@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf414eac6be793c0f214b24bb5d431ebfdf58636b",
+  "SCAN_LINK": "https://polygonscan.com/address/0xf414eac6be793c0f214b24bb5d431ebfdf58636b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "FluidDreams",
+  "SYMBOL": "FD",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/fluiddreams",
+  "SHOW_BACKGROUND": true
+}
